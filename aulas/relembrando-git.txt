@@ -1,0 +1,6 @@
+zpara "pull" repo do GitHub, use [git clone] + url do repo no GHub
+
+para comitar com mensagem, use [git commit -m] + "mensagem"
+
+para "push" repo para GHub, use [git push origin main]
+
